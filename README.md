@@ -71,7 +71,6 @@ A better way to call Object Oriented Programming
 1. class naming
 1. invoking test
 1. result review
-
 ----------------
 ## Ruby
 
@@ -83,10 +82,14 @@ A better way to call Object Oriented Programming
 3. similarities and differences to Statically Typed Languages
 4. `gems`
 5. other tools
-   - tools like RSpec, Rake etc
----
+  - tools like 
+    - RSpec
+    - Rake
+    - etc..
+    
+-----------
 ## Cucumber  
-
+A general purpose attempt at standardizing behavior driven test scripts
 1. gherkin
   1. Feature: title
   2. Scenario:
